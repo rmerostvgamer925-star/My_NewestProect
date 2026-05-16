@@ -1,0 +1,134 @@
+
+* {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+body {
+font-family: Arial, sans-serif;
+background: #f4f4f4;
+color: #222;
+}
+
+header {
+background: #222;
+color: white;
+padding: 20px;
+text-align: center;
+}
+
+nav {
+margin-top: 15px;
+}
+
+nav a {
+color: white;
+text-decoration: none;
+margin: 0 15px;
+}
+
+.hero {
+display: flex;
+align-items: center;
+justify-content: space-between;
+padding: 50px;
+gap: 40px;
+flex-wrap: wrap;
+}
+
+.hero img {
+width: 400px;
+border-radius: 10px;
+}
+
+.hero-text {
+max-width: 500px;
+}
+
+button {
+margin-top: 20px;
+padding: 12px 25px;
+border: none;
+background: #0077ff;
+color: white;
+border-radius: 6px;
+cursor: pointer;
+}
+
+.container {
+padding: 40px;
+}
+
+.banner {
+width: 100%;
+border-radius: 10px;
+margin-bottom: 20px;
+}
+
+.team-container {
+display: flex;
+justify-content: center;
+gap: 30px;
+padding: 40px;
+flex-wrap: wrap;
+}
+
+.card {
+background: white;
+width: 300px;
+padding: 20px;
+border-radius: 10px;
+text-align: center;
+}
+
+.card img {
+width: 100%;
+border-radius: 10px;
+}
+
+.journal {
+padding: 40px;
+}
+
+.post {
+background: white;
+margin-bottom: 30px;
+padding: 20px;
+border-radius: 10px;
+}
+
+.post img {
+width: 100%;
+border-radius: 10px;
+}
+
+.links li {
+margin: 15px 0;
+}
+
+.links a {
+color: #0077ff;
+text-decoration: none;
+font-size: 18px;
+}
+
+footer {
+background: #222;
+color: white;
+text-align: center;
+padding: 20px;
+margin-top: 40px;
+}
+
+@media (max-width: 768px) {
+
+.hero {
+flex-direction: column;
+text-align: center;
+}
+
+.hero img {
+width: 100%;
+}
+}
