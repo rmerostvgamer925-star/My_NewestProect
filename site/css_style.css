@@ -33,18 +33,27 @@ display: flex;
 align-items: center;
 justify-content: space-between;
 padding: 50px;
-gap: 40px;
 flex-wrap: wrap;
 }
 
 .hero img {
 width: 400px;
 border-radius: 10px;
+margin-bottom: 30px;
 }
 
+
 .hero-text {
-max-width: 500px;
+max-width: 650px;
+text-align: justify;
 }
+
+.info {
+justify-content: space-evenly;
+padding: 50px;
+flex-wrap: wrap;
+}
+
 
 button {
 margin-top: 20px;
@@ -63,6 +72,7 @@ padding: 40px;
 .banner {
 width: 100%;
 border-radius: 10px;
+margin-top: 20px;
 margin-bottom: 20px;
 }
 
@@ -76,7 +86,7 @@ flex-wrap: wrap;
 
 .card {
 background: white;
-width: 300px;
+width: 350px;
 padding: 20px;
 border-radius: 10px;
 text-align: center;
@@ -118,7 +128,6 @@ background: #222;
 color: white;
 text-align: center;
 padding: 20px;
-margin-top: 40px;
 }
 
 @media (max-width: 768px) {
@@ -130,5 +139,6 @@ text-align: center;
 
 .hero img {
 width: 100%;
+flex-wrap: wrap;
 }
 }
