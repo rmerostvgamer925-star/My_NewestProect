@@ -1,0 +1,15 @@
+C:\Users\92518\OneDrive\Desktop\pd_practick\My_NewestProect\game\Main_game\Main_game\bin\Debug\ascii_8x8.png
+C:\Users\92518\OneDrive\Desktop\pd_practick\My_NewestProect\game\Main_game\Main_game\bin\Debug\Main_game.exe.config
+C:\Users\92518\OneDrive\Desktop\pd_practick\My_NewestProect\game\Main_game\Main_game\bin\Debug\Main_game.exe
+C:\Users\92518\OneDrive\Desktop\pd_practick\My_NewestProect\game\Main_game\Main_game\bin\Debug\Main_game.pdb
+C:\Users\92518\OneDrive\Desktop\pd_practick\My_NewestProect\game\Main_game\Main_game\bin\Debug\OpenTK.dll
+C:\Users\92518\OneDrive\Desktop\pd_practick\My_NewestProect\game\Main_game\Main_game\bin\Debug\RLNET.dll
+C:\Users\92518\OneDrive\Desktop\pd_practick\My_NewestProect\game\Main_game\Main_game\bin\Debug\RogueSharp.dll
+C:\Users\92518\OneDrive\Desktop\pd_practick\My_NewestProect\game\Main_game\Main_game\bin\Debug\OpenTK.xml
+C:\Users\92518\OneDrive\Desktop\pd_practick\My_NewestProect\game\Main_game\Main_game\bin\Debug\OpenTK.dll.config
+C:\Users\92518\OneDrive\Desktop\pd_practick\My_NewestProect\game\Main_game\Main_game\bin\Debug\RogueSharp.xml
+C:\Users\92518\OneDrive\Desktop\pd_practick\My_NewestProect\game\Main_game\Main_game\obj\Debug\Main_game.csproj.AssemblyReference.cache
+C:\Users\92518\OneDrive\Desktop\pd_practick\My_NewestProect\game\Main_game\Main_game\obj\Debug\Main_game.csproj.CoreCompileInputs.cache
+C:\Users\92518\OneDrive\Desktop\pd_practick\My_NewestProect\game\Main_game\Main_game\obj\Debug\Main_game.csproj.Up2Date
+C:\Users\92518\OneDrive\Desktop\pd_practick\My_NewestProect\game\Main_game\Main_game\obj\Debug\Main_game.exe
+C:\Users\92518\OneDrive\Desktop\pd_practick\My_NewestProect\game\Main_game\Main_game\obj\Debug\Main_game.pdb
