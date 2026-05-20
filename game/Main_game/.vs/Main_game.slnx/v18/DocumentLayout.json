@@ -7,40 +7,100 @@
       "RelativeMoniker": "D:0:0:{DEE68C2D-3637-46AF-8E4A-F71530129814}|Main_game\\Main_game.csproj|solutionrelative:main_game\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEE68C2D-3637-46AF-8E4A-F71530129814}|Main_game\\Main_game.csproj|C:\\Users\\92518\\OneDrive\\Desktop\\pd_practick\\My_NewestProect\\game\\Main_game\\main_game\\systems\\mapgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEE68C2D-3637-46AF-8E4A-F71530129814}|Main_game\\Main_game.csproj|solutionrelative:main_game\\systems\\mapgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DEE68C2D-3637-46AF-8E4A-F71530129814}|Main_game\\Main_game.csproj|C:\\Users\\92518\\OneDrive\\Desktop\\pd_practick\\My_NewestProect\\game\\Main_game\\main_game\\core\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE68C2D-3637-46AF-8E4A-F71530129814}|Main_game\\Main_game.csproj|solutionrelative:main_game\\core\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE68C2D-3637-46AF-8E4A-F71530129814}|Main_game\\Main_game.csproj|c:\\users\\92518\\onedrive\\desktop\\pd_practick\\my_newestproect\\game\\main_game\\main_game\\core\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE68C2D-3637-46AF-8E4A-F71530129814}|Main_game\\Main_game.csproj|solutionrelative:main_game\\core\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE68C2D-3637-46AF-8E4A-F71530129814}|Main_game\\Main_game.csproj|C:\\Users\\92518\\OneDrive\\Desktop\\pd_practick\\My_NewestProect\\game\\Main_game\\main_game\\core\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE68C2D-3637-46AF-8E4A-F71530129814}|Main_game\\Main_game.csproj|solutionrelative:main_game\\core\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE68C2D-3637-46AF-8E4A-F71530129814}|Main_game\\Main_game.csproj|c:\\users\\92518\\onedrive\\desktop\\pd_practick\\my_newestproect\\game\\main_game\\main_game\\core\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE68C2D-3637-46AF-8E4A-F71530129814}|Main_game\\Main_game.csproj|solutionrelative:main_game\\core\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE68C2D-3637-46AF-8E4A-F71530129814}|Main_game\\Main_game.csproj|C:\\Users\\92518\\OneDrive\\Desktop\\pd_practick\\My_NewestProect\\game\\Main_game\\main_game\\interfaces\\iactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE68C2D-3637-46AF-8E4A-F71530129814}|Main_game\\Main_game.csproj|solutionrelative:main_game\\interfaces\\iactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE68C2D-3637-46AF-8E4A-F71530129814}|Main_game\\Main_game.csproj|c:\\users\\92518\\onedrive\\desktop\\pd_practick\\my_newestproect\\game\\main_game\\main_game\\interfaces\\iequipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE68C2D-3637-46AF-8E4A-F71530129814}|Main_game\\Main_game.csproj|solutionrelative:main_game\\interfaces\\iequipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE68C2D-3637-46AF-8E4A-F71530129814}|Main_game\\Main_game.csproj|c:\\users\\92518\\onedrive\\desktop\\pd_practick\\my_newestproect\\game\\main_game\\main_game\\core\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE68C2D-3637-46AF-8E4A-F71530129814}|Main_game\\Main_game.csproj|solutionrelative:main_game\\core\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DEE68C2D-3637-46AF-8E4A-F71530129814}|Main_game\\Main_game.csproj|C:\\Users\\92518\\OneDrive\\Desktop\\pd_practick\\My_NewestProect\\game\\Main_game\\main_game\\core\\dungeonmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DEE68C2D-3637-46AF-8E4A-F71530129814}|Main_game\\Main_game.csproj|solutionrelative:main_game\\core\\dungeonmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEE68C2D-3637-46AF-8E4A-F71530129814}|Main_game\\Main_game.csproj|c:\\users\\92518\\onedrive\\desktop\\pd_practick\\my_newestproect\\game\\main_game\\main_game\\core\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEE68C2D-3637-46AF-8E4A-F71530129814}|Main_game\\Main_game.csproj|solutionrelative:main_game\\core\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DEE68C2D-3637-46AF-8E4A-F71530129814}|Main_game\\Main_game.csproj|c:\\users\\92518\\onedrive\\desktop\\pd_practick\\my_newestproect\\game\\main_game\\main_game\\systems\\commandsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEE68C2D-3637-46AF-8E4A-F71530129814}|Main_game\\Main_game.csproj|solutionrelative:main_game\\systems\\commandsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DEE68C2D-3637-46AF-8E4A-F71530129814}|Main_game\\Main_game.csproj|c:\\users\\92518\\onedrive\\desktop\\pd_practick\\my_newestproect\\game\\main_game\\main_game\\core\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEE68C2D-3637-46AF-8E4A-F71530129814}|Main_game\\Main_game.csproj|solutionrelative:main_game\\core\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DEE68C2D-3637-46AF-8E4A-F71530129814}|Main_game\\Main_game.csproj|C:\\Users\\92518\\OneDrive\\Desktop\\pd_practick\\My_NewestProect\\game\\Main_game\\main_game\\core\\colors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DEE68C2D-3637-46AF-8E4A-F71530129814}|Main_game\\Main_game.csproj|solutionrelative:main_game\\core\\colors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEE68C2D-3637-46AF-8E4A-F71530129814}|Main_game\\Main_game.csproj|c:\\users\\92518\\onedrive\\desktop\\pd_practick\\my_newestproect\\game\\main_game\\main_game\\core\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DEE68C2D-3637-46AF-8E4A-F71530129814}|Main_game\\Main_game.csproj|C:\\Users\\92518\\OneDrive\\Desktop\\pd_practick\\My_NewestProect\\game\\Main_game\\main_game\\core\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DEE68C2D-3637-46AF-8E4A-F71530129814}|Main_game\\Main_game.csproj|solutionrelative:main_game\\core\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEE68C2D-3637-46AF-8E4A-F71530129814}|Main_game\\Main_game.csproj|c:\\users\\92518\\onedrive\\desktop\\pd_practick\\my_newestproect\\game\\main_game\\main_game\\interfaces\\idrawable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEE68C2D-3637-46AF-8E4A-F71530129814}|Main_game\\Main_game.csproj|solutionrelative:main_game\\interfaces\\idrawable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DEE68C2D-3637-46AF-8E4A-F71530129814}|Main_game\\Main_game.csproj|c:\\users\\92518\\onedrive\\desktop\\pd_practick\\my_newestproect\\game\\main_game\\main_game\\behavior\\standardmoveandattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE68C2D-3637-46AF-8E4A-F71530129814}|Main_game\\Main_game.csproj|solutionrelative:main_game\\behavior\\standardmoveandattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEE68C2D-3637-46AF-8E4A-F71530129814}|Main_game\\Main_game.csproj|c:\\users\\92518\\onedrive\\desktop\\pd_practick\\my_newestproect\\game\\main_game\\main_game\\interfaces\\iactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEE68C2D-3637-46AF-8E4A-F71530129814}|Main_game\\Main_game.csproj|solutionrelative:main_game\\interfaces\\iactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DEE68C2D-3637-46AF-8E4A-F71530129814}|Main_game\\Main_game.csproj|c:\\users\\92518\\onedrive\\desktop\\pd_practick\\my_newestproect\\game\\main_game\\main_game\\equipment\\headequipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE68C2D-3637-46AF-8E4A-F71530129814}|Main_game\\Main_game.csproj|solutionrelative:main_game\\equipment\\headequipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE68C2D-3637-46AF-8E4A-F71530129814}|Main_game\\Main_game.csproj|c:\\users\\92518\\onedrive\\desktop\\pd_practick\\my_newestproect\\game\\main_game\\main_game\\equipment\\handequipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE68C2D-3637-46AF-8E4A-F71530129814}|Main_game\\Main_game.csproj|solutionrelative:main_game\\equipment\\handequipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE68C2D-3637-46AF-8E4A-F71530129814}|Main_game\\Main_game.csproj|c:\\users\\92518\\onedrive\\desktop\\pd_practick\\my_newestproect\\game\\main_game\\main_game\\equipment\\feetequipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE68C2D-3637-46AF-8E4A-F71530129814}|Main_game\\Main_game.csproj|solutionrelative:main_game\\equipment\\feetequipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE68C2D-3637-46AF-8E4A-F71530129814}|Main_game\\Main_game.csproj|c:\\users\\92518\\onedrive\\desktop\\pd_practick\\my_newestproect\\game\\main_game\\main_game\\equipment\\bodyequipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE68C2D-3637-46AF-8E4A-F71530129814}|Main_game\\Main_game.csproj|solutionrelative:main_game\\equipment\\bodyequipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE68C2D-3637-46AF-8E4A-F71530129814}|Main_game\\Main_game.csproj|C:\\Users\\92518\\OneDrive\\Desktop\\pd_practick\\My_NewestProect\\game\\Main_game\\main_game\\systems\\mapgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE68C2D-3637-46AF-8E4A-F71530129814}|Main_game\\Main_game.csproj|solutionrelative:main_game\\systems\\mapgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE68C2D-3637-46AF-8E4A-F71530129814}|Main_game\\Main_game.csproj|c:\\users\\92518\\onedrive\\desktop\\pd_practick\\my_newestproect\\game\\main_game\\main_game\\core\\stairs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE68C2D-3637-46AF-8E4A-F71530129814}|Main_game\\Main_game.csproj|solutionrelative:main_game\\core\\stairs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE68C2D-3637-46AF-8E4A-F71530129814}|Main_game\\Main_game.csproj|c:\\users\\92518\\onedrive\\desktop\\pd_practick\\my_newestproect\\game\\main_game\\main_game\\interfaces\\ibehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE68C2D-3637-46AF-8E4A-F71530129814}|Main_game\\Main_game.csproj|solutionrelative:main_game\\interfaces\\ibehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE68C2D-3637-46AF-8E4A-F71530129814}|Main_game\\Main_game.csproj|c:\\users\\92518\\onedrive\\desktop\\pd_practick\\my_newestproect\\game\\main_game\\main_game\\systems\\schedulingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE68C2D-3637-46AF-8E4A-F71530129814}|Main_game\\Main_game.csproj|solutionrelative:main_game\\systems\\schedulingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE68C2D-3637-46AF-8E4A-F71530129814}|Main_game\\Main_game.csproj|c:\\users\\92518\\onedrive\\desktop\\pd_practick\\my_newestproect\\game\\main_game\\main_game\\systems\\messagelog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE68C2D-3637-46AF-8E4A-F71530129814}|Main_game\\Main_game.csproj|solutionrelative:main_game\\systems\\messagelog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE68C2D-3637-46AF-8E4A-F71530129814}|Main_game\\Main_game.csproj|C:\\Users\\92518\\OneDrive\\Desktop\\pd_practick\\My_NewestProect\\game\\Main_game\\main_game\\systems\\commandsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE68C2D-3637-46AF-8E4A-F71530129814}|Main_game\\Main_game.csproj|solutionrelative:main_game\\systems\\commandsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE68C2D-3637-46AF-8E4A-F71530129814}|Main_game\\Main_game.csproj|c:\\users\\92518\\onedrive\\desktop\\pd_practick\\my_newestproect\\game\\main_game\\main_game\\monsters\\kobold.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE68C2D-3637-46AF-8E4A-F71530129814}|Main_game\\Main_game.csproj|solutionrelative:main_game\\monsters\\kobold.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE68C2D-3637-46AF-8E4A-F71530129814}|Main_game\\Main_game.csproj|c:\\users\\92518\\onedrive\\desktop\\pd_practick\\my_newestproect\\game\\main_game\\main_game\\interfaces\\ischeduleable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE68C2D-3637-46AF-8E4A-F71530129814}|Main_game\\Main_game.csproj|solutionrelative:main_game\\interfaces\\ischeduleable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE68C2D-3637-46AF-8E4A-F71530129814}|Main_game\\Main_game.csproj|C:\\Users\\92518\\OneDrive\\Desktop\\pd_practick\\My_NewestProect\\game\\Main_game\\main_game\\interfaces\\idrawable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE68C2D-3637-46AF-8E4A-F71530129814}|Main_game\\Main_game.csproj|solutionrelative:main_game\\interfaces\\idrawable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DEE68C2D-3637-46AF-8E4A-F71530129814}|Main_game\\Main_game.csproj|C:\\Users\\92518\\OneDrive\\Desktop\\pd_practick\\My_NewestProect\\game\\Main_game\\main_game\\core\\swatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -59,14 +119,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "CommandSystem.cs",
-              "DocumentMoniker": "C:\\Users\\92518\\OneDrive\\Desktop\\pd_practick\\My_NewestProect\\game\\Main_game\\Main_game\\Systems\\CommandSystem.cs",
-              "RelativeDocumentMoniker": "Main_game\\Systems\\CommandSystem.cs",
-              "ToolTip": "C:\\Users\\92518\\OneDrive\\Desktop\\pd_practick\\My_NewestProect\\game\\Main_game\\Main_game\\Systems\\CommandSystem.cs",
-              "RelativeToolTip": "Main_game\\Systems\\CommandSystem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAFAAAAAAAAAA==",
+              "Title": "Equipment.cs",
+              "DocumentMoniker": "C:\\Users\\92518\\OneDrive\\Desktop\\pd_practick\\My_NewestProect\\game\\Main_game\\Main_game\\Core\\Equipment.cs",
+              "RelativeDocumentMoniker": "Main_game\\Core\\Equipment.cs",
+              "ToolTip": "C:\\Users\\92518\\OneDrive\\Desktop\\pd_practick\\My_NewestProect\\game\\Main_game\\Main_game\\Core\\Equipment.cs",
+              "RelativeToolTip": "Main_game\\Core\\Equipment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-19T19:38:37.856Z",
+              "WhenOpened": "2026-05-20T17:32:27.844Z",
               "EditorCaption": ""
             },
             {
@@ -84,20 +144,293 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
+              "Title": "Door.cs",
+              "DocumentMoniker": "C:\\Users\\92518\\OneDrive\\Desktop\\pd_practick\\My_NewestProect\\game\\Main_game\\Main_game\\Core\\Door.cs",
+              "RelativeDocumentMoniker": "Main_game\\Core\\Door.cs",
+              "ToolTip": "C:\\Users\\92518\\OneDrive\\Desktop\\pd_practick\\My_NewestProect\\game\\Main_game\\Main_game\\Core\\Door.cs",
+              "RelativeToolTip": "Main_game\\Core\\Door.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwDAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T14:52:55.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DungeonMap.cs",
+              "DocumentMoniker": "C:\\Users\\92518\\OneDrive\\Desktop\\pd_practick\\My_NewestProect\\game\\Main_game\\Main_game\\Core\\DungeonMap.cs",
+              "RelativeDocumentMoniker": "Main_game\\Core\\DungeonMap.cs",
+              "ToolTip": "C:\\Users\\92518\\OneDrive\\Desktop\\pd_practick\\My_NewestProect\\game\\Main_game\\Main_game\\Core\\DungeonMap.cs",
+              "RelativeToolTip": "Main_game\\Core\\DungeonMap.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAAAK0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T13:54:07.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Monster.cs",
+              "DocumentMoniker": "C:\\Users\\92518\\OneDrive\\Desktop\\pd_practick\\My_NewestProect\\game\\Main_game\\Main_game\\Core\\Monster.cs",
+              "RelativeDocumentMoniker": "Main_game\\Core\\Monster.cs",
+              "ToolTip": "C:\\Users\\92518\\OneDrive\\Desktop\\pd_practick\\My_NewestProect\\game\\Main_game\\Main_game\\Core\\Monster.cs",
+              "RelativeToolTip": "Main_game\\Core\\Monster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T12:44:59.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\Users\\92518\\OneDrive\\Desktop\\pd_practick\\My_NewestProect\\game\\Main_game\\Main_game\\Core\\Player.cs",
               "RelativeDocumentMoniker": "Main_game\\Core\\Player.cs",
               "ToolTip": "C:\\Users\\92518\\OneDrive\\Desktop\\pd_practick\\My_NewestProect\\game\\Main_game\\Main_game\\Core\\Player.cs",
               "RelativeToolTip": "Main_game\\Core\\Player.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-19T19:02:33.583Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\92518\\OneDrive\\Desktop\\pd_practick\\My_NewestProect\\game\\Main_game\\Main_game\\Game.cs",
+              "RelativeDocumentMoniker": "Main_game\\Game.cs",
+              "ToolTip": "C:\\Users\\92518\\OneDrive\\Desktop\\pd_practick\\My_NewestProect\\game\\Main_game\\Main_game\\Game.cs",
+              "RelativeToolTip": "Main_game\\Game.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAADwv48AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T11:39:27.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IActor.cs",
+              "DocumentMoniker": "C:\\Users\\92518\\OneDrive\\Desktop\\pd_practick\\My_NewestProect\\game\\Main_game\\Main_game\\Interfaces\\IActor.cs",
+              "RelativeDocumentMoniker": "Main_game\\Interfaces\\IActor.cs",
+              "ToolTip": "C:\\Users\\92518\\OneDrive\\Desktop\\pd_practick\\My_NewestProect\\game\\Main_game\\Main_game\\Interfaces\\IActor.cs",
+              "RelativeToolTip": "Main_game\\Interfaces\\IActor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T18:56:16.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IEquipment.cs",
+              "DocumentMoniker": "C:\\Users\\92518\\OneDrive\\Desktop\\pd_practick\\My_NewestProect\\game\\Main_game\\Main_game\\Interfaces\\IEquipment.cs",
+              "RelativeDocumentMoniker": "Main_game\\Interfaces\\IEquipment.cs",
+              "ToolTip": "C:\\Users\\92518\\OneDrive\\Desktop\\pd_practick\\My_NewestProect\\game\\Main_game\\Main_game\\Interfaces\\IEquipment.cs",
+              "RelativeToolTip": "Main_game\\Interfaces\\IEquipment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T17:41:00.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Colors.cs",
+              "DocumentMoniker": "C:\\Users\\92518\\OneDrive\\Desktop\\pd_practick\\My_NewestProect\\game\\Main_game\\Main_game\\Core\\Colors.cs",
+              "RelativeDocumentMoniker": "Main_game\\Core\\Colors.cs",
+              "ToolTip": "C:\\Users\\92518\\OneDrive\\Desktop\\pd_practick\\My_NewestProect\\game\\Main_game\\Main_game\\Core\\Colors.cs",
+              "RelativeToolTip": "Main_game\\Core\\Colors.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T13:24:18.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Actor.cs",
+              "DocumentMoniker": "C:\\Users\\92518\\OneDrive\\Desktop\\pd_practick\\My_NewestProect\\game\\Main_game\\Main_game\\Core\\Actor.cs",
+              "RelativeDocumentMoniker": "Main_game\\Core\\Actor.cs",
+              "ToolTip": "C:\\Users\\92518\\OneDrive\\Desktop\\pd_practick\\My_NewestProect\\game\\Main_game\\Main_game\\Core\\Actor.cs",
+              "RelativeToolTip": "Main_game\\Core\\Actor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJYAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T18:59:58.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StandardMoveAndAttack.cs",
+              "DocumentMoniker": "C:\\Users\\92518\\OneDrive\\Desktop\\pd_practick\\My_NewestProect\\game\\Main_game\\Main_game\\Behavior\\StandardMoveAndAttack.cs",
+              "RelativeDocumentMoniker": "Main_game\\Behavior\\StandardMoveAndAttack.cs",
+              "ToolTip": "C:\\Users\\92518\\OneDrive\\Desktop\\pd_practick\\My_NewestProect\\game\\Main_game\\Main_game\\Behavior\\StandardMoveAndAttack.cs",
+              "RelativeToolTip": "Main_game\\Behavior\\StandardMoveAndAttack.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAUwEYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T13:35:32.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HeadEquipment.cs",
+              "DocumentMoniker": "C:\\Users\\92518\\OneDrive\\Desktop\\pd_practick\\My_NewestProect\\game\\Main_game\\Main_game\\Equipment\\HeadEquipment.cs",
+              "RelativeDocumentMoniker": "Main_game\\Equipment\\HeadEquipment.cs",
+              "ToolTip": "C:\\Users\\92518\\OneDrive\\Desktop\\pd_practick\\My_NewestProect\\game\\Main_game\\Main_game\\Equipment\\HeadEquipment.cs",
+              "RelativeToolTip": "Main_game\\Equipment\\HeadEquipment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T17:39:41.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HandEquipment.cs",
+              "DocumentMoniker": "C:\\Users\\92518\\OneDrive\\Desktop\\pd_practick\\My_NewestProect\\game\\Main_game\\Main_game\\Equipment\\HandEquipment.cs",
+              "RelativeDocumentMoniker": "Main_game\\Equipment\\HandEquipment.cs",
+              "ToolTip": "C:\\Users\\92518\\OneDrive\\Desktop\\pd_practick\\My_NewestProect\\game\\Main_game\\Main_game\\Equipment\\HandEquipment.cs",
+              "RelativeToolTip": "Main_game\\Equipment\\HandEquipment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T17:38:30.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FeetEquipment.cs",
+              "DocumentMoniker": "C:\\Users\\92518\\OneDrive\\Desktop\\pd_practick\\My_NewestProect\\game\\Main_game\\Main_game\\Equipment\\FeetEquipment.cs",
+              "RelativeDocumentMoniker": "Main_game\\Equipment\\FeetEquipment.cs",
+              "ToolTip": "C:\\Users\\92518\\OneDrive\\Desktop\\pd_practick\\My_NewestProect\\game\\Main_game\\Main_game\\Equipment\\FeetEquipment.cs",
+              "RelativeToolTip": "Main_game\\Equipment\\FeetEquipment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T17:37:25.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BodyEquipment.cs",
+              "DocumentMoniker": "C:\\Users\\92518\\OneDrive\\Desktop\\pd_practick\\My_NewestProect\\game\\Main_game\\Main_game\\Equipment\\BodyEquipment.cs",
+              "RelativeDocumentMoniker": "Main_game\\Equipment\\BodyEquipment.cs",
+              "ToolTip": "C:\\Users\\92518\\OneDrive\\Desktop\\pd_practick\\My_NewestProect\\game\\Main_game\\Main_game\\Equipment\\BodyEquipment.cs",
+              "RelativeToolTip": "Main_game\\Equipment\\BodyEquipment.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T17:35:11.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Stairs.cs",
+              "DocumentMoniker": "C:\\Users\\92518\\OneDrive\\Desktop\\pd_practick\\My_NewestProect\\game\\Main_game\\Main_game\\Core\\Stairs.cs",
+              "RelativeDocumentMoniker": "Main_game\\Core\\Stairs.cs",
+              "ToolTip": "C:\\Users\\92518\\OneDrive\\Desktop\\pd_practick\\My_NewestProect\\game\\Main_game\\Main_game\\Core\\Stairs.cs",
+              "RelativeToolTip": "Main_game\\Core\\Stairs.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwDcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T16:35:21.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\92518\\OneDrive\\Desktop\\pd_practick\\My_NewestProect\\game\\Main_game\\Main_game\\Interfaces\\IBehavior.cs",
+              "RelativeDocumentMoniker": "Main_game\\Interfaces\\IBehavior.cs",
+              "ToolTip": "C:\\Users\\92518\\OneDrive\\Desktop\\pd_practick\\My_NewestProect\\game\\Main_game\\Main_game\\Interfaces\\IBehavior.cs",
+              "RelativeToolTip": "Main_game\\Interfaces\\IBehavior.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T13:34:10.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MapGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\92518\\OneDrive\\Desktop\\pd_practick\\My_NewestProect\\game\\Main_game\\Main_game\\Systems\\MapGenerator.cs",
+              "RelativeDocumentMoniker": "Main_game\\Systems\\MapGenerator.cs",
+              "ToolTip": "C:\\Users\\92518\\OneDrive\\Desktop\\pd_practick\\My_NewestProect\\game\\Main_game\\Main_game\\Systems\\MapGenerator.cs",
+              "RelativeToolTip": "Main_game\\Systems\\MapGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T13:59:50.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MessageLog.cs",
+              "DocumentMoniker": "C:\\Users\\92518\\OneDrive\\Desktop\\pd_practick\\My_NewestProect\\game\\Main_game\\Main_game\\Systems\\MessageLog.cs",
+              "RelativeDocumentMoniker": "Main_game\\Systems\\MessageLog.cs",
+              "ToolTip": "C:\\Users\\92518\\OneDrive\\Desktop\\pd_practick\\My_NewestProect\\game\\Main_game\\Main_game\\Systems\\MessageLog.cs",
+              "RelativeToolTip": "Main_game\\Systems\\MessageLog.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwCUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T11:08:04.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SchedulingSystem.cs",
+              "DocumentMoniker": "C:\\Users\\92518\\OneDrive\\Desktop\\pd_practick\\My_NewestProect\\game\\Main_game\\Main_game\\Systems\\SchedulingSystem.cs",
+              "RelativeDocumentMoniker": "Main_game\\Systems\\SchedulingSystem.cs",
+              "ToolTip": "C:\\Users\\92518\\OneDrive\\Desktop\\pd_practick\\My_NewestProect\\game\\Main_game\\Main_game\\Systems\\SchedulingSystem.cs",
+              "RelativeToolTip": "Main_game\\Systems\\SchedulingSystem.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAcwE8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T13:30:08.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CommandSystem.cs",
+              "DocumentMoniker": "C:\\Users\\92518\\OneDrive\\Desktop\\pd_practick\\My_NewestProect\\game\\Main_game\\Main_game\\Systems\\CommandSystem.cs",
+              "RelativeDocumentMoniker": "Main_game\\Systems\\CommandSystem.cs",
+              "ToolTip": "C:\\Users\\92518\\OneDrive\\Desktop\\pd_practick\\My_NewestProect\\game\\Main_game\\Main_game\\Systems\\CommandSystem.cs",
+              "RelativeToolTip": "Main_game\\Systems\\CommandSystem.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAcwHsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T19:38:37.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Kobold.cs",
+              "DocumentMoniker": "C:\\Users\\92518\\OneDrive\\Desktop\\pd_practick\\My_NewestProect\\game\\Main_game\\Main_game\\Monsters\\Kobold.cs",
+              "RelativeDocumentMoniker": "Main_game\\Monsters\\Kobold.cs",
+              "ToolTip": "C:\\Users\\92518\\OneDrive\\Desktop\\pd_practick\\My_NewestProect\\game\\Main_game\\Main_game\\Monsters\\Kobold.cs",
+              "RelativeToolTip": "Main_game\\Monsters\\Kobold.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T12:46:28.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IScheduleable.cs",
+              "DocumentMoniker": "C:\\Users\\92518\\OneDrive\\Desktop\\pd_practick\\My_NewestProect\\game\\Main_game\\Main_game\\Interfaces\\IScheduleable.cs",
+              "RelativeDocumentMoniker": "Main_game\\Interfaces\\IScheduleable.cs",
+              "ToolTip": "C:\\Users\\92518\\OneDrive\\Desktop\\pd_practick\\My_NewestProect\\game\\Main_game\\Main_game\\Interfaces\\IScheduleable.cs",
+              "RelativeToolTip": "Main_game\\Interfaces\\IScheduleable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T13:29:17.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
               "Title": "IDrawable.cs",
               "DocumentMoniker": "C:\\Users\\92518\\OneDrive\\Desktop\\pd_practick\\My_NewestProect\\game\\Main_game\\Main_game\\Interfaces\\IDrawable.cs",
               "RelativeDocumentMoniker": "Main_game\\Interfaces\\IDrawable.cs",
@@ -110,72 +443,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IActor.cs",
-              "DocumentMoniker": "C:\\Users\\92518\\OneDrive\\Desktop\\pd_practick\\My_NewestProect\\game\\Main_game\\Main_game\\Interfaces\\IActor.cs",
-              "RelativeDocumentMoniker": "Main_game\\Interfaces\\IActor.cs",
-              "ToolTip": "C:\\Users\\92518\\OneDrive\\Desktop\\pd_practick\\My_NewestProect\\game\\Main_game\\Main_game\\Interfaces\\IActor.cs",
-              "RelativeToolTip": "Main_game\\Interfaces\\IActor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-19T18:56:16.191Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DungeonMap.cs",
-              "DocumentMoniker": "C:\\Users\\92518\\OneDrive\\Desktop\\pd_practick\\My_NewestProect\\game\\Main_game\\Main_game\\Core\\DungeonMap.cs",
-              "RelativeDocumentMoniker": "Main_game\\Core\\DungeonMap.cs",
-              "ToolTip": "C:\\Users\\92518\\OneDrive\\Desktop\\pd_practick\\My_NewestProect\\game\\Main_game\\Main_game\\Core\\DungeonMap.cs",
-              "RelativeToolTip": "Main_game\\Core\\DungeonMap.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-19T13:54:07.237Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Game.cs",
-              "DocumentMoniker": "C:\\Users\\92518\\OneDrive\\Desktop\\pd_practick\\My_NewestProect\\game\\Main_game\\Main_game\\Game.cs",
-              "RelativeDocumentMoniker": "Main_game\\Game.cs",
-              "ToolTip": "C:\\Users\\92518\\OneDrive\\Desktop\\pd_practick\\My_NewestProect\\game\\Main_game\\Main_game\\Game.cs",
-              "RelativeToolTip": "Main_game\\Game.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAowGoAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-19T11:39:27.478Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MapGenerator.cs",
-              "DocumentMoniker": "C:\\Users\\92518\\OneDrive\\Desktop\\pd_practick\\My_NewestProect\\game\\Main_game\\Main_game\\Systems\\MapGenerator.cs",
-              "RelativeDocumentMoniker": "Main_game\\Systems\\MapGenerator.cs",
-              "ToolTip": "C:\\Users\\92518\\OneDrive\\Desktop\\pd_practick\\My_NewestProect\\game\\Main_game\\Main_game\\Systems\\MapGenerator.cs",
-              "RelativeToolTip": "Main_game\\Systems\\MapGenerator.cs",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAYwFQAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-19T13:59:50.059Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Actor.cs",
-              "DocumentMoniker": "C:\\Users\\92518\\OneDrive\\Desktop\\pd_practick\\My_NewestProect\\game\\Main_game\\Main_game\\Core\\Actor.cs",
-              "RelativeDocumentMoniker": "Main_game\\Core\\Actor.cs",
-              "ToolTip": "C:\\Users\\92518\\OneDrive\\Desktop\\pd_practick\\My_NewestProect\\game\\Main_game\\Main_game\\Core\\Actor.cs",
-              "RelativeToolTip": "Main_game\\Core\\Actor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-19T18:59:58.508Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 25,
               "Title": "Swatch.cs",
               "DocumentMoniker": "C:\\Users\\92518\\OneDrive\\Desktop\\pd_practick\\My_NewestProect\\game\\Main_game\\Main_game\\Core\\Swatch.cs",
               "RelativeDocumentMoniker": "Main_game\\Core\\Swatch.cs",
@@ -183,19 +451,7 @@
               "RelativeToolTip": "Main_game\\Core\\Swatch.cs",
               "ViewState": "AgIAABcAAAAAAAAAAAAAwDgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-19T13:24:40.559Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Colors.cs",
-              "DocumentMoniker": "C:\\Users\\92518\\OneDrive\\Desktop\\pd_practick\\My_NewestProect\\game\\Main_game\\Main_game\\Core\\Colors.cs",
-              "RelativeDocumentMoniker": "Main_game\\Core\\Colors.cs",
-              "ToolTip": "C:\\Users\\92518\\OneDrive\\Desktop\\pd_practick\\My_NewestProect\\game\\Main_game\\Main_game\\Core\\Colors.cs",
-              "RelativeToolTip": "Main_game\\Core\\Colors.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-19T13:24:18.045Z",
+              "WhenOpened": "2026-05-19T13:24:40.559Z",
               "EditorCaption": ""
             }
           ]

@@ -19,8 +19,20 @@ namespace Main_game.Core
         public static RLColor WallBackgroundFov = Swatch.SecondaryDarker;
         public static RLColor WallFov = Swatch.SecondaryLighter;
 
-        public static RLColor TextHeading = Swatch.DbLight;
 
         public static RLColor Player = Swatch.DbLight;
+
+        public static RLColor TextHeading = RLColor.White;
+        public static RLColor Text = Swatch.DbLight;
+        public static RLColor TextDisabled = Swatch.DbOldStone;
+        public static RLColor Gold = Swatch.DbSun;
+
+        public static RLColor KoboldColor = Swatch.DbBrightWood;
+
+        public static RLColor DoorBackground = Swatch.ComplimentDarkest;
+        public static RLColor Door = Swatch.ComplimentLighter;
+        public static RLColor DoorBackgroundFov = Swatch.ComplimentDarker;
+        public static RLColor DoorFov = Swatch.ComplimentLightest;
+
     }
 }
